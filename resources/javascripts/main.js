@@ -1,4 +1,3 @@
-let shouldStop = false;
 const buttonRecord = document.getElementById('recordAudio');
 const buttonStop = document.getElementById('stopRecord');
 
